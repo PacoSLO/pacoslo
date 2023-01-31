@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **https://discord.gg/KZ5TKAJ**
-
 - ⚡ Fun fact **In the middle of every difficulty lies opportunity!**
 
 <h3 align="left">Connect with me:</h3>
