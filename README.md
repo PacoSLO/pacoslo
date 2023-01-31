@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paco</h1>
-<h3 align="center">I'm casual gamer and streamer. Streaming to twitch and upload some of the videos to Youtube. But i love to develop stuff. Love gaming server, discord bots, and all stuff ralated to IT.</h3>
+<h3 align="center">I'm casual gamer and streamer. Streaming to twitch and upload some of the videos to Youtube. But i love to develop stuff. Love gaming servers, making discord bots, and all stuff ralated to IT, Home Lab.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacoslo&label=Profile%20views&color=0e75b6&style=flat" alt="pacoslo" /> </p>
 
